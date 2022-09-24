@@ -1,8 +1,8 @@
 {
   "tokens": {
-    "main": "",
+    "main": "MTAwOTUwMDg3MzAwMjU5NDM4Nw.GY9k4N.wxUEULPY6KXsB2Sg-TzbMZzoQmxCS30S-qXtFk",
     "alts": [
-      ""
+      "MTAwODQwMTIzOTg4MjU5NjQ1Mg.Gc7Q-K.ONdqHu2PefNIdHNhfxtQHBEZp1Hk8UhvEWJzII,NzY0ODkwMzgyMDE3NjI2MTUz.GhvLhD.HV3T9BZdtDa6UiOAUlSkJjVgGLVMalHIO5hNeQ,MTAwODcxODUzODY5NDk5NjA2MA.G9Lri4.GQyeJQzOBa85euLoNMqBap2CFMP8o3aBdiBpfs,NzMxNzgzNTM1Mjk1MzMyNDQy.GCOKV3.KaskRTfl7RRd1_8JZPJzBZQiv9dkZH-Rs03XHU,OTgyMjQyMDQwNDY3MjkyMjEx.GiX_Vb.cE4wcF60qpWSR7p_jis0kxqaUTak0aBEE6EIb4,NzY0ODk3MTQxMzY1NTM4ODQ2.GyyGfm.4l1hQPFJHp8A_Zh3yf6sKGXqv_G5hyeIvQepHs,ODU2MTg0ODAyMDk3MjMzOTUx.G_Fi8E.viel89Aa_7bkVkLkaAO0svDfDvtRNptAnGuE8I,OTg4MTI2MTY2MzYxNzE0NzU4.GFhHfa.6YO-HRIi5AiWoQQ2nGp_2XJnlxtxpTVUDkzlvA,MTAwOTcwNDYzNDgyNDI4MjE2Mg.Ga5Vx3.GFbP_qkGnyvLPsQ_sN7ncq_IXGg65jbLKIheMw,MTAwOTg1NDg1NDc2NTc1NjQ3Ng.GJPy-V.0I3O56CAZg6psX1hDl68gnF1pBuI92pQS_cYQY,MTAxMDEyODU5NDIzNzkxOTIzMw.GRMRYQ.8b2vI2DRUOMNC_eoTv0rWa7JSkW5P3p6WZkKck,MTAyMDI1ODE1ODA5MTk2MDM4MA.G3yHHS.4zJqOaat-yJppbRh_5vLzn2BihHSbTQk-gGOh4,MTAyMDI3Njg3MDQ4ODUyMjc1Mg.GrVoLk.Ofk4DF3Uly5ADPqCju8UFFJwixXXcwsDfPqL7I"
     ]
   },
   "status": {
@@ -11,7 +11,7 @@
   },
   "nitro": {
     "max": 2,
-    "cooldown": 24,
+    "cooldown": 1,
     "main_sniper": true,
     "delay": true
   },
@@ -26,7 +26,9 @@
       "ban"
     ],
     "whitelist_words": [
-      "nitro"
+      "nitro",
+      "classic",
+      "boost"
     ],
     "blacklist_servers": []
   },
@@ -40,10 +42,10 @@
     "cooldown": 6
   },
   "privnote": {
-    "enable": false
+    "enable": true
   },
   "webhook": {
-    "url": "",
+    "url": "https://discord.com/api/webhooks/1008405664558751928/qeWfWiXUJjdscCsneAEvR8Bi4BGVEvNSozQ7DIyEEWWrj9Hdrtp-d0SYIky0ULCXyKs6",
     "good_only": false
   },
   "blacklist_servers": []
